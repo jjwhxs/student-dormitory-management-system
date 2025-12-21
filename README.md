@@ -14,21 +14,29 @@
 
 ### 成果展示
 
-用户登录 输入图片说明
+用户登录
+<img width="1910" height="1004" alt="用户登录" src="https://github.com/user-attachments/assets/72e9dfd5-16ef-4868-9071-b4a86cecb439" />
 
-首页 输入图片说明
+首页
+<img width="1891" height="1045" alt="首页" src="https://github.com/user-attachments/assets/ff93468d-bd53-4928-aae9-b89517ee1ffe" />
 
-用户管理->学生信息 输入图片说明
+用户管理->学生信息
+<img width="1910" height="1045" alt="用户管理-学生信息" src="https://github.com/user-attachments/assets/042f34e0-b0d8-48e9-9363-0e80a2156bb8" />
 
-宿舍管理->楼宇管理 输入图片说明
+宿舍管理->楼宇管理
+<img width="1910" height="1045" alt="宿舍管理-楼宇管理" src="https://github.com/user-attachments/assets/4e7f7365-275d-41bc-a297-b1f8bd2fb5f9" />
 
-信息管理->报修信息 输入图片说明
+信息管理->报修信息
+<img width="1910" height="1045" alt="信息管理-报修信息" src="https://github.com/user-attachments/assets/45ea192b-2153-455a-ab05-cea1fe712029" />
 
-申请管理->调宿申请 输入图片说明
+申请管理->调宿申请
+<img width="1910" height="1045" alt="申请管理-调宿申请" src="https://github.com/user-attachments/assets/a8a0130b-82f8-4ee5-9c9a-26caf810c1ba" />
 
-访客管理 输入图片说明
+访客管理
+<img width="1910" height="1045" alt="访客管理" src="https://github.com/user-attachments/assets/366df770-8bb7-4807-8cf8-30a63db6dd15" />
 
-个人信息 输入图片说明
+个人信息
+<img width="1910" height="1045" alt="个人信息" src="https://github.com/user-attachments/assets/8054e532-ddd6-4b8d-8baa-9cd4ac537ff0" />
 
 ### 源码展示
 
@@ -141,11 +149,11 @@ public Result<?> login(@RequestBody User user, HttpSession session) {
 
 3、目录结构展示
 
-输入图片说明
+<img width="435" height="177" alt="目录结构展示" src="https://github.com/user-attachments/assets/619d3619-29e9-4e58-ba79-2ba8483bb310" />
 
 4、项目结构展示
 
-输入图片说明
+<img width="1701" height="949" alt="项目结构展示" src="https://github.com/user-attachments/assets/730e2929-b7e7-4664-835a-54a6244058a1" />
 
 5、运行步骤
 
@@ -159,6 +167,8 @@ public Result<?> login(@RequestBody User user, HttpSession session) {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)： 输入图片说明
+访问链接(在浏览器中手动输入下图中的地址)：
+
+<img width="1075" height="136" alt="链接" src="https://github.com/user-attachments/assets/ed419870-40a8-4c92-9498-5cc2455449cb" />
 
 若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
