@@ -171,4 +171,4 @@ public Result<?> login(@RequestBody User user, HttpSession session) {
 
 <img width="1075" height="136" alt="链接" src="https://github.com/user-attachments/assets/ed419870-40a8-4c92-9498-5cc2455449cb" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
