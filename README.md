@@ -167,8 +167,6 @@ public Result<?> login(@RequestBody User user, HttpSession session) {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1075" height="136" alt="链接" src="https://github.com/user-attachments/assets/ed419870-40a8-4c92-9498-5cc2455449cb" />
+访问链接：https://mbd.pub/o/bread/mbd-aJeVmppx
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
